@@ -1,4 +1,4 @@
-# 十种排序算法 - jacascript
+# 十种排序算法 - javascript
 * 冒泡排序
 * 插入排序
 * 选择排序
